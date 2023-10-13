@@ -13,3 +13,4 @@ Key sections include:
 - Practical Recommendations 📝✅
 
 👇 Dive in, explore, and empower your cybersecurity knowledge! 💪🛡️ #Cybersecurity #InfoSec #PenTest #BestPractices
+PDF https://github.com/manikanta-suru/Sample-Penetration-Test-Report.git
